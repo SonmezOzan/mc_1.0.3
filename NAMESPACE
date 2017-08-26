@@ -1,0 +1,6 @@
+
+import(markovchain, lattice, methods)
+
+# exportPattern(".")
+export(stationary,findpil.fin,findpil.inf,expectstep,steps.fin,steps.inf, plotstep, absorb.mc, mc.simulation, timefin, timeinf, findpicont.fin, findpicont.inf)
+
